@@ -1,4 +1,9 @@
+[
 {
-  "name": "codescryptocurrency/codescryptocurrency.txt"
- 
+  "code": "1"
+},
+
+{
+  "code": "2"
 }
+]
